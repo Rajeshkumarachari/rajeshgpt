@@ -15,7 +15,7 @@ const Login = () => {
           alt="background_logo"
         />
       </div>
-      <form className="absolute p-12 bg-black w-3/12 my-36 mx-auto right-0 left-0 rounded-md text-white bg-opacity-80">
+      <form className="absolute p-12 bg-black w-4/12 my-36 mx-auto right-0 left-0 rounded-md text-white bg-opacity-80">
         <h1 className=" font-bold text-3xl py-4">
           {isSignIn ? "Sign In" : "Sign Up"}
         </h1>
